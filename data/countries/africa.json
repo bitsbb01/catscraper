@@ -5,7 +5,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -160,7 +160,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -173,7 +173,7 @@
         "link": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -206,7 +206,8 @@
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "africa_-_-_-_-"
+            "africa_-_-_-_-",
+            "s"
         ]
     },
     {
@@ -220,7 +221,8 @@
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "africa_-_-_-_-"
+            "africa_-_-_-_-",
+            "s"
         ]
     },
     {
@@ -228,8 +230,8 @@
         "channel": "Mekameleen TV",
         "link": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
@@ -244,7 +246,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
+        "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -665,7 +667,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -820,7 +822,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -833,7 +835,7 @@
         "link": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -866,7 +868,8 @@
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "africa_-_-_-_-"
+            "africa_-_-_-_-",
+            "s"
         ]
     },
     {
@@ -880,7 +883,8 @@
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
-            "africa_-_-_-_-"
+            "africa_-_-_-_-",
+            "s"
         ]
     },
     {
@@ -888,8 +892,8 @@
         "channel": "Mekameleen TV",
         "link": "http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
@@ -904,7 +908,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
+        "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1328,7 +1332,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -1341,7 +1345,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -1534,9 +1538,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -1550,9 +1554,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -1603,7 +1607,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -1796,9 +1800,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -1812,9 +1816,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -1865,7 +1869,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2058,9 +2062,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2074,9 +2078,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2127,7 +2131,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2320,9 +2324,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2336,9 +2340,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2392,7 +2396,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -2405,7 +2409,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2598,9 +2602,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2614,9 +2618,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2667,7 +2671,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -2860,9 +2864,9 @@
         ]
     },
     {
-        "id": "2755",
+        "id": "2756",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2876,9 +2880,9 @@
         ]
     },
     {
-        "id": "2756",
+        "id": "2755",
         "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
@@ -2932,7 +2936,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -3008,7 +3012,7 @@
         "status": "online",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-",
             "arab_countries_-_-_-_-_-_-_-_",
@@ -3081,7 +3085,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -3135,7 +3139,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -3189,7 +3193,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2021-11-12T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -3235,6 +3239,66 @@
             "arab_countries_-_-_-_-_-_-_-_",
             "latin_america",
             "south_america"
+        ]
+    },
+    {
+        "id": "679584",
+        "channel": "MBC Masr 1",
+        "link": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-11-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "africa_-_-_-_-",
+            "s"
+        ]
+    },
+    {
+        "id": "679585",
+        "channel": "MBC Masr 2",
+        "link": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-11-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "africa_-_-_-_-",
+            "s"
+        ]
+    },
+    {
+        "id": "679584",
+        "channel": "MBC Masr 1",
+        "link": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-11-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "africa_-_-_-_-",
+            "s"
+        ]
+    },
+    {
+        "id": "679585",
+        "channel": "MBC Masr 2",
+        "link": "https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "97",
+        "status": "online",
+        "lastChecked": "2021-11-12T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "africa_-_-_-_-",
+            "s"
         ]
     }
 ]
