@@ -2,8 +2,10 @@ name: Scrape Cron
 
 on:
   workflow_dispatch:
+# Run 6 Hours after https://github.com/bitsbb01/iptvcat-scrapper
+  # 6.10 UTC Time, 00.10 Central Time
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "10 6 * * *"
   push:
     branches:
     - master
