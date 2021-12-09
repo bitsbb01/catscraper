@@ -1,336 +1,14 @@
 [
     {
-        "id": "2142713",
-        "channel": "10 Bold Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61101?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "1696",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142635",
-        "channel": "10 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61092?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142725",
-        "channel": "10 Peach Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61102?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142418",
-        "channel": "10 Peach Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61078?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142397",
-        "channel": "10 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61077?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142647",
-        "channel": "7 Flix Melbourn",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61094?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142277",
-        "channel": "7 Flix Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61071?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142265",
-        "channel": "7 Food network Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61070?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "1696",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142656",
-        "channel": "7 Mate Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61095?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142239",
-        "channel": "7 Mate Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61069?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142641",
-        "channel": "7 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61093?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142217",
-        "channel": "7 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61068?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142677",
-        "channel": "7 Two Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61096?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142699",
-        "channel": "9 Gem Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61098?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142367",
-        "channel": "9 Gem Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61076?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142703",
-        "channel": "9 Go! Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61099?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142314",
-        "channel": "9 Go! Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61074?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142709",
-        "channel": "9 Life Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61100?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142342",
-        "channel": "9 Life Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61075?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142694",
-        "channel": "9 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61097?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142307",
-        "channel": "9 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61073?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142560",
-        "channel": "9 Rush Sydney",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61087?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
         "id": "693516",
         "channel": "ABC AU",
         "link": "https://c.mjh.nz/101002210221/?checkedby:iptvcat.com",
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142157",
-        "channel": "ABC Comedy Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61065?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
         "URI": [
             "oceania_-_-_"
         ]
@@ -342,7 +20,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -356,23 +34,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142627",
-        "channel": "ABC Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61091?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -384,7 +48,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -398,7 +62,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -410,25 +74,11 @@
         "channel": "Australia Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59803.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142594",
-        "channel": "Australia Channel",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61089?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
         "URI": [
             "oceania_-_-_"
         ]
@@ -440,7 +90,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -452,9 +102,9 @@
         "channel": "Bloomberg Australia",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59804.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -468,7 +118,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -482,7 +132,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -496,7 +146,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -508,9 +158,9 @@
         "channel": "Expo Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59808.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "44",
         "status": "offline",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -524,7 +174,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -537,9 +187,9 @@
         "channel": "Gusto TV HD",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60298.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -551,9 +201,9 @@
         "channel": "Insight TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60299.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "73",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -565,9 +215,9 @@
         "channel": "Introuble TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60300.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -579,9 +229,9 @@
         "channel": "Inwild TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60301.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -593,9 +243,9 @@
         "channel": "Inwonder TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60302.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -607,81 +257,11 @@
         "channel": "Outdoor Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59819.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142536",
-        "channel": "PAC-12 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61085?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142530",
-        "channel": "Racing.com Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61084?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142525",
-        "channel": "SBS Food Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61083?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142480",
-        "channel": "SBS Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61080?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142512",
-        "channel": "SBS Viceland Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61082?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -691,9 +271,9 @@
         "channel": "Sky News Australia Extra 1 (Australia)",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59828.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -708,7 +288,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -723,7 +303,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -738,7 +318,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -751,9 +331,9 @@
         "channel": "Stingray Karaoke",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60304.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -767,7 +347,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -779,9 +359,9 @@
         "channel": "TVSN",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59834.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -795,7 +375,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -809,7 +389,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -824,7 +404,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -839,7 +419,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -854,7 +434,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -868,7 +448,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -882,7 +462,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -896,7 +476,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -910,7 +490,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -924,7 +504,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -938,7 +518,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -952,7 +532,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -966,7 +546,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -980,7 +560,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -994,7 +574,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1008,7 +588,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1022,7 +602,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1036,317 +616,9 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142713",
-        "channel": "10 Bold Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61101?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "1696",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142635",
-        "channel": "10 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61092?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142725",
-        "channel": "10 Peach Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61102?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142418",
-        "channel": "10 Peach Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61078?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "2883",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142397",
-        "channel": "10 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61077?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142647",
-        "channel": "7 Flix Melbourn",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61094?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142277",
-        "channel": "7 Flix Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61071?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142265",
-        "channel": "7 Food network Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61070?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "1696",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142656",
-        "channel": "7 Mate Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61095?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142239",
-        "channel": "7 Mate Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61069?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142641",
-        "channel": "7 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61093?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142217",
-        "channel": "7 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61068?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142677",
-        "channel": "7 Two Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61096?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142699",
-        "channel": "9 Gem Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61098?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142367",
-        "channel": "9 Gem Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61076?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142703",
-        "channel": "9 Go! Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61099?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142314",
-        "channel": "9 Go! Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61074?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142709",
-        "channel": "9 Life Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61100?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142342",
-        "channel": "9 Life Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61075?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142694",
-        "channel": "9 Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61097?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142307",
-        "channel": "9 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61073?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142560",
-        "channel": "9 Rush Sydney",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61087?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1358,23 +630,9 @@
         "country": "oceania",
         "liveliness": "93",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142157",
-        "channel": "ABC Comedy Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61065?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "25",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1386,7 +644,7 @@
         "country": "oceania",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1400,23 +658,9 @@
         "country": "oceania",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142627",
-        "channel": "ABC Melbourne",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61091?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1428,7 +672,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1442,7 +686,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1454,25 +698,11 @@
         "channel": "Australia Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59803.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
+        "liveliness": "55",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142594",
-        "channel": "Australia Channel",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61089?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1484,7 +714,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "823",
         "URI": [
@@ -1496,9 +726,9 @@
         "channel": "Bloomberg Australia",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59804.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "77",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1512,7 +742,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -1526,7 +756,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1540,7 +770,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1552,9 +782,9 @@
         "channel": "Expo Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59808.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "44",
         "status": "offline",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1568,7 +798,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -1581,9 +811,9 @@
         "channel": "Gusto TV HD",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60298.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "75",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
@@ -1595,9 +825,9 @@
         "channel": "Insight TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60299.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "83",
+        "liveliness": "73",
         "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1609,9 +839,9 @@
         "channel": "Introuble TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60300.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "87",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -1623,9 +853,9 @@
         "channel": "Inwild TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60301.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1637,9 +867,9 @@
         "channel": "Inwonder TV",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60302.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "86",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1651,81 +881,11 @@
         "channel": "Outdoor Channel",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59819.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "80",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142536",
-        "channel": "PAC-12 Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61085?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142530",
-        "channel": "Racing.com Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61084?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142525",
-        "channel": "SBS Food Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61083?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142480",
-        "channel": "SBS Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61080?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "oceania_-_-_"
-        ]
-    },
-    {
-        "id": "2142512",
-        "channel": "SBS Viceland Perth",
-        "link": "http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/61082?checkedby:iptvcat.com",
-        "country": "oceania",
-        "liveliness": "20",
-        "status": "offline",
-        "lastChecked": "2021-12-06T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
         "URI": [
             "oceania_-_-_"
         ]
@@ -1735,9 +895,9 @@
         "channel": "Sky News Australia Extra 1 (Australia)",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59828.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -1752,7 +912,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -1767,7 +927,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -1782,7 +942,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -1795,9 +955,9 @@
         "channel": "Stingray Karaoke",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60304.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "88",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
@@ -1811,7 +971,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1823,9 +983,9 @@
         "channel": "TVSN",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59834.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "40",
+        "liveliness": "33",
         "status": "offline",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1839,7 +999,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1853,7 +1013,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1868,7 +1028,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1883,7 +1043,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -1898,7 +1058,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1912,7 +1072,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1926,7 +1086,7 @@
         "country": "oceania",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1940,7 +1100,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1509, ...",
         "URI": [
@@ -1954,7 +1114,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1968,7 +1128,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -1982,7 +1142,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -1996,7 +1156,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2010,7 +1170,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2024,7 +1184,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -2038,7 +1198,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2052,7 +1212,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2066,7 +1226,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2080,7 +1240,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -2094,7 +1254,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2109,7 +1269,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2124,7 +1284,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2139,7 +1299,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2154,7 +1314,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "hd",
         "mbps": "3188, ...",
         "URI": [
@@ -2169,7 +1329,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2184,7 +1344,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2199,7 +1359,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "2883",
         "URI": [
@@ -2212,9 +1372,9 @@
         "channel": "Sky News Australia Extra 1 (Australia)",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59828.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -2229,7 +1389,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2244,7 +1404,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2259,7 +1419,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
@@ -2272,9 +1432,9 @@
         "channel": "Sky News Australia Extra 1 (Australia)",
         "link": "http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/59828.m3u8?checkedby:iptvcat.com",
         "country": "oceania",
-        "liveliness": "60",
-        "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "liveliness": "50",
+        "status": "offline",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853",
         "URI": [
@@ -2289,7 +1449,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2304,7 +1464,7 @@
         "country": "oceania",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "sd",
         "mbps": "1853, ...",
         "URI": [
@@ -2319,7 +1479,7 @@
         "country": "oceania",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-07T00:00:00Z",
+        "lastChecked": "2021-12-09T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004, ...",
         "URI": [
