@@ -6,7 +6,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -24,7 +24,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -42,7 +42,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -60,7 +60,7 @@
         "country": "africa",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -74,7 +74,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -88,7 +88,7 @@
         "country": "africa",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -102,7 +102,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -116,7 +116,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -130,7 +130,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -144,7 +144,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -158,7 +158,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -217,7 +217,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -232,7 +232,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -246,7 +246,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -260,7 +260,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -274,7 +274,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -288,7 +288,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -302,7 +302,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -316,7 +316,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -332,7 +332,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -348,7 +348,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -364,7 +364,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -380,7 +380,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -396,7 +396,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -410,7 +410,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -424,7 +424,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -440,7 +440,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -456,7 +456,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -472,7 +472,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -488,7 +488,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -504,7 +504,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -520,7 +520,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -536,7 +536,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -550,7 +550,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -563,8 +563,8 @@
         "link": "https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3239",
         "URI": [
@@ -579,7 +579,7 @@
         "country": "africa",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -594,7 +594,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -612,7 +612,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -630,7 +630,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -648,7 +648,7 @@
         "country": "africa",
         "liveliness": "90",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -662,7 +662,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -676,7 +676,7 @@
         "country": "africa",
         "liveliness": "94",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -690,7 +690,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -704,7 +704,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -718,7 +718,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -732,7 +732,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -746,7 +746,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -762,7 +762,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -776,7 +776,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -790,7 +790,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -805,7 +805,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -820,7 +820,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -834,7 +834,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "11126, ...",
         "URI": [
@@ -848,7 +848,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -862,7 +862,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -876,7 +876,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -890,7 +890,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -904,7 +904,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -920,7 +920,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -936,7 +936,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -952,7 +952,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -968,7 +968,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -984,7 +984,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -998,7 +998,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -1012,7 +1012,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1028,7 +1028,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1044,7 +1044,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1060,7 +1060,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1076,7 +1076,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1092,7 +1092,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1108,7 +1108,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1124,7 +1124,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -1138,7 +1138,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1151,8 +1151,8 @@
         "link": "https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3239",
         "URI": [
@@ -1167,7 +1167,7 @@
         "country": "africa",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -1182,7 +1182,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1200,7 +1200,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1218,7 +1218,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1236,7 +1236,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1252,7 +1252,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1268,25 +1268,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25737",
-        "channel": "Télé Maroc",
-        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378, ...",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1300,7 +1284,23 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378, ...",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "25737",
+        "channel": "Télé Maroc",
+        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1316,7 +1316,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1332,7 +1332,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1348,7 +1348,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1364,7 +1364,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1380,7 +1380,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1396,7 +1396,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1412,7 +1412,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1428,7 +1428,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -1444,7 +1444,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1462,7 +1462,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1480,7 +1480,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1498,7 +1498,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1514,7 +1514,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1530,25 +1530,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25737",
-        "channel": "Télé Maroc",
-        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378, ...",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1562,7 +1546,23 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378, ...",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "25737",
+        "channel": "Télé Maroc",
+        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1578,7 +1578,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1594,7 +1594,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1610,7 +1610,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1626,7 +1626,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1642,7 +1642,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1658,7 +1658,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1674,7 +1674,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1690,7 +1690,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1708,7 +1708,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1726,7 +1726,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1744,7 +1744,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1760,7 +1760,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1776,25 +1776,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25737",
-        "channel": "Télé Maroc",
-        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378, ...",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1808,7 +1792,23 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378, ...",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "25737",
+        "channel": "Télé Maroc",
+        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1824,7 +1824,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1840,7 +1840,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1856,7 +1856,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1872,7 +1872,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1888,7 +1888,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1904,7 +1904,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1920,7 +1920,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1936,7 +1936,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1954,7 +1954,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1972,7 +1972,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1990,7 +1990,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -2006,7 +2006,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2022,25 +2022,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25737",
-        "channel": "Télé Maroc",
-        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378, ...",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -2054,7 +2038,23 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378, ...",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "25737",
+        "channel": "Télé Maroc",
+        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -2070,7 +2070,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2086,7 +2086,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2102,7 +2102,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2118,7 +2118,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2134,7 +2134,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2150,7 +2150,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2166,7 +2166,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2182,7 +2182,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -2198,7 +2198,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2216,7 +2216,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2234,7 +2234,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2252,7 +2252,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -2268,7 +2268,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2284,25 +2284,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "25737",
-        "channel": "Télé Maroc",
-        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8378, ...",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -2316,7 +2300,23 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8378, ...",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "25737",
+        "channel": "Télé Maroc",
+        "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -2332,7 +2332,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2348,7 +2348,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2364,7 +2364,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -2380,7 +2380,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-19T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2396,7 +2396,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2412,7 +2412,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2428,7 +2428,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2443,8 +2443,8 @@
         "link": "https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3239",
         "URI": [
@@ -2459,7 +2459,7 @@
         "country": "africa",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -2474,7 +2474,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -2489,8 +2489,8 @@
         "link": "https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "3239",
         "URI": [
@@ -2505,7 +2505,7 @@
         "country": "africa",
         "liveliness": "95",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "523",
         "URI": [
@@ -2520,7 +2520,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "9546, ...",
         "URI": [
@@ -2536,7 +2536,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2554,7 +2554,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2572,7 +2572,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2590,7 +2590,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2608,7 +2608,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2626,7 +2626,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2644,7 +2644,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2662,7 +2662,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2680,7 +2680,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2698,7 +2698,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -2713,7 +2713,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2021-12-20T00:00:00Z",
+        "lastChecked": "2021-12-21T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
