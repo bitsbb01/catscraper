@@ -6,7 +6,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -24,7 +24,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -42,7 +42,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -59,8 +59,8 @@
         "link": "http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -74,7 +74,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -87,8 +87,8 @@
         "link": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -102,7 +102,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -116,7 +116,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -130,7 +130,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -144,7 +144,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -158,7 +158,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -174,7 +174,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -188,7 +188,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -202,7 +202,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -217,7 +217,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -232,8 +232,8 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_"
@@ -246,8 +246,8 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_"
@@ -260,7 +260,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -274,7 +274,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -288,9 +288,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
-        "mbps": "1357, ...",
+        "mbps": "1178, ...",
         "URI": [
             "africa_-_-_-_-_"
         ]
@@ -302,7 +302,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -316,7 +316,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -330,9 +330,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -348,7 +348,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -364,7 +364,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -380,7 +380,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -396,7 +396,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -410,7 +410,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -424,7 +424,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -440,7 +440,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -456,7 +456,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -472,7 +472,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -488,7 +488,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -498,13 +498,183 @@
         ]
     },
     {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -520,7 +690,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -534,7 +704,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -548,12 +718,12 @@
         "country": "africa",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -562,13 +732,13 @@
         "link": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -578,7 +748,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -596,7 +766,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -614,7 +784,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -631,8 +801,8 @@
         "link": "http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "90",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
@@ -646,7 +816,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -659,8 +829,8 @@
         "link": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -674,7 +844,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -688,7 +858,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -702,7 +872,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "13324, ...",
         "URI": [
@@ -716,7 +886,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -730,7 +900,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -746,7 +916,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -760,7 +930,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
         "URI": [
@@ -774,7 +944,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -789,7 +959,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -804,8 +974,8 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_"
@@ -818,8 +988,8 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_"
@@ -832,7 +1002,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1509",
         "URI": [
@@ -846,7 +1016,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
         "URI": [
@@ -860,9 +1030,9 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
-        "mbps": "1357, ...",
+        "mbps": "1178, ...",
         "URI": [
             "africa_-_-_-_-_"
         ]
@@ -874,7 +1044,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5216",
         "URI": [
@@ -888,7 +1058,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -902,9 +1072,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -920,7 +1090,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -936,7 +1106,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -952,7 +1122,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -968,7 +1138,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
@@ -982,7 +1152,7 @@
         "country": "africa",
         "liveliness": "96",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
         "URI": [
@@ -996,7 +1166,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1012,7 +1182,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1028,7 +1198,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
         "URI": [
@@ -1044,7 +1214,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1060,7 +1230,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1070,13 +1240,183 @@
         ]
     },
     {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1092,7 +1432,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1182",
         "URI": [
@@ -1106,7 +1446,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
@@ -1120,12 +1460,12 @@
         "country": "africa",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -1134,13 +1474,13 @@
         "link": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -1150,7 +1490,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1168,7 +1508,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1186,7 +1526,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1204,7 +1544,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1218,9 +1558,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1236,7 +1576,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -1252,7 +1592,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1268,7 +1608,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1284,7 +1624,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1300,7 +1640,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1316,25 +1656,9 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2756",
-        "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1348,7 +1672,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1358,13 +1682,199 @@
         ]
     },
     {
+        "id": "2756",
+        "channel": "Africa TV2",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1380,7 +1890,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -1396,7 +1906,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1414,7 +1924,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1432,7 +1942,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1450,7 +1960,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1464,9 +1974,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1482,7 +1992,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -1498,7 +2008,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1514,7 +2024,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1530,7 +2040,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1546,7 +2056,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1562,25 +2072,9 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2756",
-        "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1594,7 +2088,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1604,13 +2098,199 @@
         ]
     },
     {
+        "id": "2756",
+        "channel": "Africa TV2",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1626,7 +2306,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1644,7 +2324,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1662,7 +2342,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1680,7 +2360,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1694,9 +2374,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1712,7 +2392,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -1728,7 +2408,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1744,7 +2424,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1760,7 +2440,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1776,7 +2456,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1792,25 +2472,9 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2756",
-        "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -1824,7 +2488,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -1834,13 +2498,199 @@
         ]
     },
     {
+        "id": "2756",
+        "channel": "Africa TV2",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -1856,7 +2706,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -1874,7 +2724,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1892,7 +2742,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -1910,7 +2760,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -1924,9 +2774,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -1942,7 +2792,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -1958,7 +2808,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1974,7 +2824,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -1990,7 +2840,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2006,7 +2856,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2022,25 +2872,9 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2756",
-        "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -2054,7 +2888,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2064,13 +2898,199 @@
         ]
     },
     {
+        "id": "2756",
+        "channel": "Africa TV2",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2086,7 +3106,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2102,7 +3122,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2120,7 +3140,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2138,7 +3158,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2156,7 +3176,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357, ...",
         "URI": [
@@ -2170,9 +3190,9 @@
         "channel": "M24 TV",
         "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
         "URI": [
@@ -2188,7 +3208,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "13873, ...",
         "URI": [
@@ -2204,7 +3224,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -2220,7 +3240,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378, ...",
         "URI": [
@@ -2236,7 +3256,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2252,7 +3272,7 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2268,25 +3288,9 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "3262",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries",
-            "arab_countries_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "2756",
-        "channel": "Africa TV2",
-        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
         "URI": [
             "africa_-_-_-_-_",
             "arab_countries",
@@ -2300,7 +3304,7 @@
         "country": "africa",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "3188",
         "URI": [
@@ -2310,13 +3314,199 @@
         ]
     },
     {
+        "id": "2756",
+        "channel": "Africa TV2",
+        "link": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
         "id": "25757",
         "channel": "Sudan TV",
         "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1052, ...",
         "URI": [
@@ -2332,12 +3522,12 @@
         "country": "africa",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -2346,28 +3536,12 @@
         "link": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "9116",
-        "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
-        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "africa_-_-_-_-_",
-            "arab_countries_-_-_-_-_-_-_-_-_-_",
             "asia"
         ]
     },
@@ -2378,7 +3552,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "5991",
         "URI": [
@@ -2394,12 +3568,12 @@
         "country": "africa",
         "liveliness": "92",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
         ]
     },
     {
@@ -2408,13 +3582,29 @@
         "link": "https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.com",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
         "URI": [
             "africa_-_-_-_-_",
-            "asia_-_-_-_-_-_-_-_-_-_-_"
+            "asia"
+        ]
+    },
+    {
+        "id": "9116",
+        "channel": "Al Horreya, AL HORREYA TV (1920×1080), EG | Al Horreya",
+        "link": "http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "asia"
         ]
     },
     {
@@ -2424,7 +3614,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2442,7 +3632,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2460,7 +3650,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2478,7 +3668,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2496,7 +3686,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2514,7 +3704,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2532,7 +3722,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
         "URI": [
@@ -2550,7 +3740,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2568,7 +3758,7 @@
         "country": "africa",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
         "URI": [
@@ -2577,6 +3767,176 @@
             "arab_countries_-_-_-_-_-_-_-_-_-_",
             "latin_america",
             "south_america"
+        ]
+    },
+    {
+        "id": "2254674",
+        "channel": "BE SPORTS 1",
+        "link": "http://smartv.pro:80/Abusami/12341234/106?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254671",
+        "channel": "BE SPORTS 1 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/120?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254675",
+        "channel": "BE SPORTS 2",
+        "link": "http://smartv.pro:80/Abusami/12341234/108?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254672",
+        "channel": "BE SPORTS 2 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/122?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254676",
+        "channel": "BE SPORTS 3",
+        "link": "http://smartv.pro:80/Abusami/12341234/110?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254673",
+        "channel": "BE SPORTS 3 PREMIUM",
+        "link": "http://smartv.pro:80/Abusami/12341234/124?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254677",
+        "channel": "BE SPORTS 4",
+        "link": "http://smartv.pro:80/Abusami/12341234/112?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254679",
+        "channel": "BE SPORTS 5",
+        "link": "http://smartv.pro:80/Abusami/12341234/114?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "3799",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254680",
+        "channel": "BE SPORTS 6",
+        "link": "http://smartv.pro:80/Abusami/12341234/116?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+        ]
+    },
+    {
+        "id": "2254681",
+        "channel": "BE SPORTS 7",
+        "link": "http://smartv.pro:80/Abusami/12341234/118?checkedby:iptvcat.com",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-01-15T00:00:00Z",
+        "format": "sd",
+        "mbps": "1967",
+        "URI": [
+            "africa_-_-_-_-_",
+            "arab_countries",
+            "arab_countries_-_-_-_-_-_-_-_-_-_",
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
         ]
     },
     {
@@ -2586,7 +3946,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
@@ -2601,7 +3961,7 @@
         "country": "africa",
         "liveliness": "97",
         "status": "online",
-        "lastChecked": "2022-01-14T00:00:00Z",
+        "lastChecked": "2022-01-15T00:00:00Z",
         "format": "hd",
         "mbps": "7004, ...",
         "URI": [
