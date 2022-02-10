@@ -6,25 +6,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "125",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
@@ -34,25 +20,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "125",
+        "channel": "Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
@@ -62,11 +48,53 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2344853",
+        "channel": "SBT",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92137?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2344854",
+        "channel": "WOOHOO",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92111?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2088",
+        "URI": [
+            "south_america"
         ]
     },
     {
@@ -76,7 +104,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -90,7 +118,7 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795, ...",
         "URI": [
@@ -104,7 +132,7 @@
         "country": "south america",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "3795",
         "URI": [
@@ -112,143 +140,129 @@
         ]
     },
     {
-        "id": "55922",
-        "channel": "AW | Tele Aruba, Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "2344853",
+        "channel": "SBT",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92137?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "13324",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "125",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
+        "id": "2344854",
+        "channel": "WOOHOO",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92111?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "2088",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "132526",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "508",
+        "channel": "TV Direct 13",
+        "link": "http://edge1.tvdirect13.com/live/smil:mystream.smil/playlist_720p.m3u8?checkedby:iptvcat.com",
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "3795",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "126",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
+        "id": "51679",
+        "channel": "TV Direct 13",
+        "link": "https://edge1.tvdirect13.com/live/smil:mystream.smil/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "3795, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "55922",
-        "channel": "AW | Tele Aruba, Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "1335800",
+        "channel": "TeleCuraçao (720p)",
+        "link": "http://ott.streann.com:8080/loadbalancer/services/public/channels/5ed71e232cdc24a3d08cd6de/playlist.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "3795",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "125",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
+        "id": "2344851",
+        "channel": "H2",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92167?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5997",
+        "URI": [
+            "south_america"
+        ]
+    },
+    {
+        "id": "2344849",
+        "channel": "FX",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92175?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "1706",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "132526",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "2344851",
+        "channel": "H2",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92167?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "5997",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "2344849",
+        "channel": "FX",
+        "link": "http://smartestv.vip:2095/ABHVYOP/2387998104/92175?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1706",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "126",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklist_w812279767_b1596000_sleng.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
@@ -258,25 +272,11 @@
         "country": "south america",
         "liveliness": "98",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
-        ]
-    },
-    {
-        "id": "125",
-        "channel": "Tele Aruba",
-        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
-        "country": "south america",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "sd",
-        "mbps": "1181",
-        "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
@@ -286,25 +286,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
-        "id": "132527",
-        "channel": "Tele Aruba Channel 13",
-        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "id": "125",
+        "channel": "Tele Aruba",
+        "link": "http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w964107368_b896000_sleng.m3u8?checkedby:iptvcat.com",
         "country": "south america",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1181",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
         ]
     },
     {
@@ -314,11 +314,25 @@
         "country": "south america",
         "liveliness": "99",
         "status": "online",
-        "lastChecked": "2022-02-09T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
         "URI": [
-            "south_america_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_"
+            "south_america"
+        ]
+    },
+    {
+        "id": "132527",
+        "channel": "Tele Aruba Channel 13",
+        "link": "https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8?checkedby:iptvcat.com",
+        "country": "south america",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318, ...",
+        "URI": [
+            "south_america"
         ]
     }
 ]

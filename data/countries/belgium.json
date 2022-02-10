@@ -1,999 +1,1038 @@
 [
     {
-        "id": "55565",
-        "channel": "BE | Notele, Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:iptvcat.com",
+        "id": "2344822",
+        "channel": "ELEVEN SPORTS 1 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150384?checkedby:iptvcat.com",
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "225",
-        "channel": "BE | TV Oost, TV Oost",
-        "link": "http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "693538",
-        "channel": "BEL Radio PROS (Webradio)",
-        "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004181",
-        "channel": "BX1",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164428?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "201",
-        "channel": "Bel RTL",
-        "link": "http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132538",
-        "channel": "Bel RTL",
-        "link": "https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132541",
-        "channel": "City Music TV",
-        "link": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004209",
-        "channel": "ECLIPS",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164451?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004203",
-        "channel": "KETNET JUNIOR",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164448?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "37",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "215",
-        "channel": "Ketnet Junior",
-        "link": "http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132542",
-        "channel": "Ketnet Junior",
-        "link": "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004166",
-        "channel": "LA DEUX HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164414?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004168",
-        "channel": "LA TROIS HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164415?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004164",
-        "channel": "LA UNE HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164413?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "216",
-        "channel": "LN24",
-        "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132543",
-        "channel": "LN24",
-        "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "693546",
-        "channel": "MNM (Webradio)",
-        "link": "https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004194",
-        "channel": "NO TELE",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164444?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "11945",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "12850",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132544",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "218",
-        "channel": "Q-Music",
-        "link": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004172",
-        "channel": "RTL INFO ( JT  13H / 19H / 00H )",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164416?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004174",
-        "channel": "RTL TVI HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164417?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "222",
-        "channel": "RTL-TVi",
-        "link": "http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132546",
-        "channel": "RTL-TVi",
-        "link": "https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132545",
-        "channel": "Radio Contact, Radio Contact Vision",
-        "link": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "belgium_-_-_-_-_-",
-            "france"
-        ]
-    },
-    {
-        "id": "220",
-        "channel": "Radio PROS",
-        "link": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "227",
-        "channel": "TVL",
-        "link": "http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132547",
-        "channel": "TVL",
-        "link": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004184",
-        "channel": "TVO",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164432?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004188",
-        "channel": "VIJF HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164436?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004191",
-        "channel": "VTM HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164439?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "belgium_-_-_-_-_-"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "693553",
-        "channel": "XITE BE",
-        "link": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8?checkedby:iptvcat.com",
+        "id": "2344824",
+        "channel": "ELEVEN SPORTS 2 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150382?checkedby:iptvcat.com",
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004199",
-        "channel": "ZES HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164446?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "55565",
-        "channel": "BE | Notele, Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "225",
-        "channel": "BE | TV Oost, TV Oost",
-        "link": "http://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "95",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "693538",
-        "channel": "BEL Radio PROS (Webradio)",
-        "link": "https://558bd16067b67.streamlock.net/radiopros/livestream/chunklist_w2014501819.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004181",
-        "channel": "BX1",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164428?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "201",
-        "channel": "Bel RTL",
-        "link": "http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132538",
-        "channel": "Bel RTL",
-        "link": "https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132541",
-        "channel": "City Music TV",
-        "link": "https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004209",
-        "channel": "ECLIPS",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164451?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "55",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004203",
-        "channel": "KETNET JUNIOR",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164448?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "37",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "11126",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "215",
-        "channel": "Ketnet Junior",
-        "link": "http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132542",
-        "channel": "Ketnet Junior",
-        "link": "https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004166",
-        "channel": "LA DEUX HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164414?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004168",
-        "channel": "LA TROIS HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164415?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "64",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004164",
-        "channel": "LA UNE HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164413?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "216",
-        "channel": "LN24",
-        "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132543",
-        "channel": "LN24",
-        "link": "https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13324",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "693546",
-        "channel": "MNM (Webradio)",
-        "link": "https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004194",
-        "channel": "NO TELE",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164444?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "82",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "11945",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w798871553.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "12850",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1424854023.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132544",
-        "channel": "Notele",
-        "link": "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "3262",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "218",
-        "channel": "Q-Music",
-        "link": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "7004, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004172",
-        "channel": "RTL INFO ( JT  13H / 19H / 00H )",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164416?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "81",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004174",
-        "channel": "RTL TVI HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164417?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "77",
-        "status": "offline",
-        "lastChecked": "2021-11-10T00:00:00Z",
-        "format": "hd",
-        "mbps": "6241",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "222",
-        "channel": "RTL-TVi",
-        "link": "http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132546",
-        "channel": "RTL-TVi",
-        "link": "https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5997, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132545",
-        "channel": "Radio Contact, Radio Contact Vision",
-        "link": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
-        "URI": [
-            "belgium_-_-_-_-_-",
-            "france"
-        ]
-    },
-    {
-        "id": "220",
-        "channel": "Radio PROS",
-        "link": "http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "227",
-        "channel": "TVL",
-        "link": "http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "96",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "132547",
-        "channel": "TVL",
-        "link": "https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "97",
-        "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188, ...",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004184",
-        "channel": "TVO",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164432?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "84",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004188",
-        "channel": "VIJF HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164436?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004191",
-        "channel": "VTM HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164439?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7004",
         "URI": [
-            "belgium_-_-_-_-_-"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "693553",
-        "channel": "XITE BE",
-        "link": "https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8?checkedby:iptvcat.com",
+        "id": "2344826",
+        "channel": "ELEVEN SPORTS 3 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150388?checkedby:iptvcat.com",
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "belgium_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2004199",
-        "channel": "ZES HD",
-        "link": "http://top-fast.xyz:8080/GhaithxHabash/8GWhYkB0zg/164446?checkedby:iptvcat.com",
-        "country": "belgium",
-        "liveliness": "74",
-        "status": "offline",
-        "lastChecked": "2021-11-11T00:00:00Z",
+        "lastChecked": "2022-02-10T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
         "URI": [
-            "belgium_-_-_-_-_-"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     },
     {
-        "id": "132545",
-        "channel": "Radio Contact, Radio Contact Vision",
-        "link": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8?checkedby:iptvcat.com",
+        "id": "2344776",
+        "channel": "Eleven Sport HD1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9042?checkedby:iptvcat.com",
         "country": "belgium",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2021-11-11T00:00:00Z",
-        "format": "sd",
-        "mbps": "2308, ...",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
         "URI": [
-            "belgium_-_-_-_-_-",
-            "france"
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344778",
+        "channel": "Eleven Sport HD2",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9043?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344780",
+        "channel": "Eleven Sport HD3",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9044?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344812",
+        "channel": "Eurosport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150316?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344792",
+        "channel": "PICKX+ SPORTS 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59255?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344794",
+        "channel": "PICKX+ SPORTS 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59257?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344796",
+        "channel": "PICKX+ SPORTS 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59256?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344605",
+        "channel": "PLAY SPORTS 3 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37648?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344800",
+        "channel": "PLAY-SPORTS HD 1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59418?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344802",
+        "channel": "PLAY-SPORTS HD 2",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59419?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344804",
+        "channel": "PLAY-SPORTS HD 4",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59421?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344806",
+        "channel": "PLAY-SPORTS HD 5",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59422?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344808",
+        "channel": "PLAY-SPORTS HD 6",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59423?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344810",
+        "channel": "PLAY-SPORTS HD 7",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59424?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344611",
+        "channel": "PROXIMUS - PICKX+ SPORTS 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199889?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344620",
+        "channel": "PROXIMUS - PICKX+ SPORTS 10 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199898?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344612",
+        "channel": "PROXIMUS - PICKX+ SPORTS 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199890?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344613",
+        "channel": "PROXIMUS - PICKX+ SPORTS 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199891?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344614",
+        "channel": "PROXIMUS - PICKX+ SPORTS 4 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199892?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344615",
+        "channel": "PROXIMUS - PICKX+ SPORTS 5 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199893?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344616",
+        "channel": "PROXIMUS - PICKX+ SPORTS 6 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199894?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344617",
+        "channel": "PROXIMUS - PICKX+ SPORTS 7 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199895?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344618",
+        "channel": "PROXIMUS - PICKX+ SPORTS 8 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199896?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344619",
+        "channel": "PROXIMUS - PICKX+ SPORTS 9 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199897?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344828",
+        "channel": "Pickx+ Sports 1 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150361?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344836",
+        "channel": "Pickx+ Sports 10 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150379?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344608",
+        "channel": "Pickx+ Sports 10 NL HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37545?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344838",
+        "channel": "Pickx+ Sports 10 NL HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150425?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344830",
+        "channel": "Pickx+ Sports 6 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150371?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344832",
+        "channel": "Pickx+ Sports 7 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150373?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344834",
+        "channel": "Pickx+ Sports 8 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150375?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344790",
+        "channel": "VOO SPORT 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59250?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344788",
+        "channel": "VOO SPORT WORLD 1 FHD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2622?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1008",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344798",
+        "channel": "VOO SPORT WORLD HD1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59252?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1008",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344804",
+        "channel": "PLAY-SPORTS HD 4",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59421?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344806",
+        "channel": "PLAY-SPORTS HD 5",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59422?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344808",
+        "channel": "PLAY-SPORTS HD 6",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59423?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344810",
+        "channel": "PLAY-SPORTS HD 7",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59424?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344611",
+        "channel": "PROXIMUS - PICKX+ SPORTS 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199889?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344620",
+        "channel": "PROXIMUS - PICKX+ SPORTS 10 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199898?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344612",
+        "channel": "PROXIMUS - PICKX+ SPORTS 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199890?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344613",
+        "channel": "PROXIMUS - PICKX+ SPORTS 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199891?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344614",
+        "channel": "PROXIMUS - PICKX+ SPORTS 4 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199892?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344615",
+        "channel": "PROXIMUS - PICKX+ SPORTS 5 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199893?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344616",
+        "channel": "PROXIMUS - PICKX+ SPORTS 6 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199894?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344617",
+        "channel": "PROXIMUS - PICKX+ SPORTS 7 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199895?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344618",
+        "channel": "PROXIMUS - PICKX+ SPORTS 8 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199896?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344619",
+        "channel": "PROXIMUS - PICKX+ SPORTS 9 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/199897?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344828",
+        "channel": "Pickx+ Sports 1 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150361?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344836",
+        "channel": "Pickx+ Sports 10 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150379?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344608",
+        "channel": "Pickx+ Sports 10 NL HD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37545?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344838",
+        "channel": "Pickx+ Sports 10 NL HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150425?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1509",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344830",
+        "channel": "Pickx+ Sports 6 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150371?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344832",
+        "channel": "Pickx+ Sports 7 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150373?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344834",
+        "channel": "Pickx+ Sports 8 FR HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150375?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344790",
+        "channel": "VOO SPORT 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59250?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344788",
+        "channel": "VOO SPORT WORLD 1 FHD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2622?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1008",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344798",
+        "channel": "VOO SPORT WORLD HD1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59252?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "1008",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344822",
+        "channel": "ELEVEN SPORTS 1 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150384?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344824",
+        "channel": "ELEVEN SPORTS 2 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150382?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344826",
+        "channel": "ELEVEN SPORTS 3 FHD (NL)",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150388?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344776",
+        "channel": "Eleven Sport HD1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9042?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344778",
+        "channel": "Eleven Sport HD2",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9043?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344780",
+        "channel": "Eleven Sport HD3",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9044?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344812",
+        "channel": "Eurosport 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150316?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344792",
+        "channel": "PICKX+ SPORTS 1 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59255?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344794",
+        "channel": "PICKX+ SPORTS 2 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59257?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344796",
+        "channel": "PICKX+ SPORTS 3 HD",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59256?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344605",
+        "channel": "PLAY SPORTS 3 FHD",
+        "link": "http://red.ipfox.org:8080/1234/12345678/37648?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344800",
+        "channel": "PLAY-SPORTS HD 1",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59418?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2344802",
+        "channel": "PLAY-SPORTS HD 2",
+        "link": "http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/59419?checkedby:iptvcat.com",
+        "country": "belgium",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-02-10T00:00:00Z",
+        "format": "hd",
+        "mbps": "6241",
+        "URI": [
+            "sport_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
         ]
     }
 ]
