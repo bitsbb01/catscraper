@@ -5,7 +5,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -133,8 +133,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "9546, ...",
+        "format": "fhd 2k",
+        "mbps": "9546",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -565,7 +565,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3be9a8f9fb3fff3c051b0a2d629167cc.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-03-22T00:00:00Z",
         "format": "sd",
         "mbps": "1357",
@@ -693,8 +693,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-03-22T00:00:00Z",
-        "format": "hd",
-        "mbps": "9546, ...",
+        "format": "fhd 2k",
+        "mbps": "9546",
         "URI": [
             "africa_-_-_-_-_-"
         ]
