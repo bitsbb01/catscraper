@@ -1,6 +1,5 @@
 # iptvcat-scraper
-
-> **This is no longer maintained.**
+This is used with https://github.com/bitsbb01/m3u8_creator
 
 A web scraper for iptvcat.com written in go, using `go-colly`.
 
