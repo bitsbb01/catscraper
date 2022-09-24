@@ -18,8 +18,8 @@
         "channel": "Citizen TV (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -32,10 +32,10 @@
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
         "country": "africa",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_-"
@@ -173,7 +173,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6895887da16c2b8b606dbf306a2e9b34.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -371,8 +371,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "600",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -396,8 +396,8 @@
         "channel": "Al Jazeera Arabic (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/a659c9ce10b7e2d6cbcdad11b372ffe6.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -424,7 +424,7 @@
         "channel": "Al Maali TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/5128c3c92b2e00bc7baeb210ebdeb022.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -550,7 +550,7 @@
         "channel": "Assemblee Nationale du Quebec",
         "link": "https://list.iptvcat.com/my_list/s/baf76b9c9edbc14834ea9a1f67160d65.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -676,7 +676,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "africa",
-        "liveliness": "71",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -732,7 +732,7 @@
         "channel": "Bahrain Sports 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b2cc8fdde539fe4172500362f9a35a0d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -788,7 +788,7 @@
         "channel": "Bayyinat TV",
         "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -830,7 +830,7 @@
         "channel": "BilliardTV",
         "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -1082,7 +1082,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -1096,7 +1096,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/c7a4446a8492d9c60ed0e4a1cf278837.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -1418,7 +1418,7 @@
         "channel": "Canal Nets",
         "link": "https://list.iptvcat.com/my_list/s/720f77e6206b06485e9a68ab2e336cb1.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -1446,8 +1446,8 @@
         "channel": "Citizen TV (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/0dccfa571ad8f5939f4074bfbe032fe2.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -1544,8 +1544,8 @@
         "channel": "WPIX-DT1 (PIX 11)",
         "link": "https://list.iptvcat.com/my_list/s/952ed30858282d7dfc6d778c7e370781.m3u8",
         "country": "africa",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -1587,7 +1587,7 @@
         "link": "https://list.iptvcat.com/my_list/s/40678494a1a73d803c8f17046041750f.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -1642,7 +1642,7 @@
         "channel": "WPXN-DT3 (ION Mystery)",
         "link": "https://list.iptvcat.com/my_list/s/06c9aa853b318ed6f1afc11c6085afd7.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -1768,7 +1768,7 @@
         "channel": "WSTO",
         "link": "https://list.iptvcat.com/my_list/s/949003a6b819bb654953047d1e8127d3.m3u8",
         "country": "africa",
-        "liveliness": "96",
+        "liveliness": "95",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
@@ -1824,11 +1824,11 @@
         "channel": "WWOR-DT1 (my9)",
         "link": "https://list.iptvcat.com/my_list/s/f0050ea38e7945deed60c876e2c32310.m3u8",
         "country": "africa",
-        "liveliness": "99",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "africa"
         ]
@@ -1964,7 +1964,7 @@
         "channel": "Wion (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/965926bd0028d82308cd6d3c7fa1dc8f.m3u8",
         "country": "africa",
-        "liveliness": "70",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -2149,8 +2149,8 @@
         "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1307",
+        "format": "hd",
+        "mbps": "3188",
         "URI": [
             "africa"
         ]
@@ -2188,7 +2188,7 @@
         "channel": "Zuldemayda Comunicaciones",
         "link": "https://list.iptvcat.com/my_list/s/7cec13749c43469769ba317a0fa7b7c1.m3u8",
         "country": "africa",
-        "liveliness": "80",
+        "liveliness": "79",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -2217,7 +2217,7 @@
         "link": "https://list.iptvcat.com/my_list/s/773f8bfff33ebef328d972d2d99f6e07.m3u8",
         "country": "africa",
         "liveliness": "92",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
@@ -2273,10 +2273,10 @@
         "link": "https://list.iptvcat.com/my_list/s/acd853c5816da45c0d7f2e2164ced6f2.m3u8",
         "country": "africa",
         "liveliness": "95",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3262, ...",
+        "mbps": "1052",
         "URI": [
             "africa"
         ]
@@ -2300,7 +2300,7 @@
         "channel": "tvOne",
         "link": "https://list.iptvcat.com/my_list/s/7eeb276625f0d87d42c9b8ff2f787c90.m3u8",
         "country": "africa",
-        "liveliness": "70",
+        "liveliness": "71",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -2346,7 +2346,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2334",
+        "mbps": "1235",
         "URI": [
             "africa"
         ]
@@ -2497,7 +2497,7 @@
         "link": "https://list.iptvcat.com/my_list/s/f49ed90c2b64d0394d70a0da54f03a23.m3u8",
         "country": "africa",
         "liveliness": "94",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020, ...",
@@ -2622,8 +2622,8 @@
         "channel": "tvOne",
         "link": "https://list.iptvcat.com/my_list/s/99a8efe5daec1c48ea89f4ef2f745ece.m3u8",
         "country": "africa",
-        "liveliness": "72",
-        "status": "online",
+        "liveliness": "71",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "370",
@@ -2734,7 +2734,7 @@
         "channel": "Télé Maroc",
         "link": "https://list.iptvcat.com/my_list/s/3b2a70c4d78af7ef99ccdac8f5ae6924.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
@@ -2892,7 +2892,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "7004, ...",
         "URI": [
             "africa"
         ]
@@ -2930,8 +2930,8 @@
         "channel": "Tele San Jacinto",
         "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
         "country": "africa",
-        "liveliness": "61",
-        "status": "offline",
+        "liveliness": "62",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -3014,7 +3014,7 @@
         "channel": "The Country Network (2160p)",
         "link": "https://list.iptvcat.com/my_list/s/254211c67458c793c692d585f0fe59b0.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "4k uhd",
@@ -3182,8 +3182,8 @@
         "channel": "Towheed TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/9171aebfa212d7c67926665a5d18c4aa.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
+        "liveliness": "96",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -3312,7 +3312,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "4821",
         "URI": [
             "africa"
         ]
@@ -3378,7 +3378,7 @@
         "channel": "UAO Play",
         "link": "https://list.iptvcat.com/my_list/s/9f2c0f2a212d308514a43b454c98c0b8.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -3406,7 +3406,7 @@
         "channel": "Unife TV",
         "link": "https://list.iptvcat.com/my_list/s/e307f970a572ff27dd8ccbd251f66d1d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -3434,8 +3434,8 @@
         "channel": "Uranio TV (Yurimaguas) (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a74f155f140f235e7c9f234bdbc1d9a4.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
@@ -3465,8 +3465,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "africa"
         ]
@@ -3533,7 +3533,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2a5727ddaa606898f69d98bdf736f5af.m3u8",
         "country": "africa",
         "liveliness": "63",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3676,7 +3676,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2773",
+        "mbps": "2334",
         "URI": [
             "africa"
         ]
@@ -3728,8 +3728,8 @@
         "channel": "WCBS-DT2 (Start TV)",
         "link": "https://list.iptvcat.com/my_list/s/0a71ada79502385efcfeccfef733e96e.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3757,7 +3757,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b13884f2988c37af6a2868375e30bc00.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3798,8 +3798,8 @@
         "channel": "WELL-LD1 (Daystar) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/087dd591853d75d3e86fba765c1255c0.m3u8",
         "country": "africa",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3812,8 +3812,8 @@
         "channel": "WFMZ-DT1 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/29b39c02ddd229ca6fef80c1491cd626.m3u8",
         "country": "africa",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -3897,7 +3897,7 @@
         "link": "https://list.iptvcat.com/my_list/s/070b50a94c9272e58ad6b57a50b5890d.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -3995,7 +3995,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7fedbecd4c97ebd42f784522ffe2fb6c.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -4009,7 +4009,7 @@
         "link": "https://list.iptvcat.com/my_list/s/06e0a2fa962ca9482a2d0526968f5c9a.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -4050,8 +4050,8 @@
         "channel": "WMCN-DT1 (ShopHQ) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -4064,8 +4064,8 @@
         "channel": "WNBC-DT1 (NBC 4) (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b8acbd443064ff5eb6e2df6c2f20bd21.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -4121,7 +4121,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -4246,8 +4246,8 @@
         "channel": "WNYW-DT3 (FOX Weather)",
         "link": "https://list.iptvcat.com/my_list/s/68ad33d408d45e53fa03e960457388d8.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -4264,7 +4264,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -4278,7 +4278,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -4292,7 +4292,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -4320,7 +4320,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -4334,7 +4334,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -4474,7 +4474,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4825, ...",
         "URI": [
             "africa"
         ]
@@ -4530,7 +4530,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -4586,7 +4586,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -4656,7 +4656,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -4740,7 +4740,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -4754,7 +4754,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "10677, ...",
         "URI": [
             "africa"
         ]
@@ -4837,8 +4837,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "africa"
         ]
@@ -5226,7 +5226,7 @@
         "channel": "SoriTV [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/3aae92aafa6b2e4656a6e89ac7080241.m3u8",
         "country": "africa",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -5310,7 +5310,7 @@
         "channel": "Sudan TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/cda2e841bfd25a73300d0a943a4bc72d.m3u8",
         "country": "africa",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -5366,7 +5366,7 @@
         "channel": "Suram TV (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/f036a375712169b3f39e5cd51b08bd42.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -5562,7 +5562,7 @@
         "channel": "TV Guará (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/34f8b9b87de2db0bcdb953bd2552f168.m3u8",
         "country": "africa",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -5622,7 +5622,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "921",
         "URI": [
             "africa"
         ]
@@ -5817,8 +5817,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1180",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "africa"
         ]
@@ -6262,7 +6262,7 @@
         "channel": "Nunavut Legislative Assembly",
         "link": "https://list.iptvcat.com/my_list/s/10a213b90944eca091bbcbb390e0ecd4.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -6307,8 +6307,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "651",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "africa"
         ]
@@ -6374,7 +6374,7 @@
         "channel": "Oneworld TV",
         "link": "https://list.iptvcat.com/my_list/s/6937122527d0dfee3491402676a9e68b.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -6486,7 +6486,7 @@
         "channel": "Pacific Coast TV MWSD Channel 26 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/dfe700b398e337cec5d14abd939bf755.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -6532,7 +6532,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "13311, ...",
         "URI": [
             "africa"
         ]
@@ -6655,7 +6655,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1fce7915d6831597c9a7ca779a0ce7f6.m3u8",
         "country": "africa",
         "liveliness": "61",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -6711,7 +6711,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ea299092322fbf96e61975d84cc9ee60.m3u8",
         "country": "africa",
         "liveliness": "92",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -6738,8 +6738,8 @@
         "channel": "RTV (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/7f73a7cd9958964de54bd21da0c3cc5c.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -6752,8 +6752,8 @@
         "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
         "country": "africa",
-        "liveliness": "75",
-        "status": "offline",
+        "liveliness": "74",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -6906,7 +6906,7 @@
         "channel": "Raj News Malayalam",
         "link": "https://list.iptvcat.com/my_list/s/bddc8c16efe2557a08e16e3d8d0cc025.m3u8",
         "country": "africa",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -6966,7 +6966,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -6994,7 +6994,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -7008,7 +7008,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -7036,7 +7036,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -7064,7 +7064,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -7078,7 +7078,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -7092,7 +7092,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -7120,7 +7120,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -7134,7 +7134,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -7274,7 +7274,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4825, ...",
         "URI": [
             "africa"
         ]
@@ -7330,7 +7330,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -7386,7 +7386,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -7456,7 +7456,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -7540,7 +7540,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -7554,7 +7554,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "10677, ...",
         "URI": [
             "africa"
         ]
@@ -7637,8 +7637,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322",
+        "format": "sd",
+        "mbps": "2089",
         "URI": [
             "africa"
         ]
@@ -8026,7 +8026,7 @@
         "channel": "SoriTV [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/3aae92aafa6b2e4656a6e89ac7080241.m3u8",
         "country": "africa",
-        "liveliness": "44",
+        "liveliness": "43",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -8110,7 +8110,7 @@
         "channel": "Sudan TV (720p)",
         "link": "https://list.iptvcat.com/my_list/s/cda2e841bfd25a73300d0a943a4bc72d.m3u8",
         "country": "africa",
-        "liveliness": "81",
+        "liveliness": "82",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -8166,7 +8166,7 @@
         "channel": "Suram TV (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/f036a375712169b3f39e5cd51b08bd42.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -8362,7 +8362,7 @@
         "channel": "TV Guará (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/34f8b9b87de2db0bcdb953bd2552f168.m3u8",
         "country": "africa",
-        "liveliness": "94",
+        "liveliness": "95",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -8422,7 +8422,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "921",
         "URI": [
             "africa"
         ]
@@ -8460,10 +8460,10 @@
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
         "country": "africa",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_-"
@@ -8601,7 +8601,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6895887da16c2b8b606dbf306a2e9b34.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -8799,8 +8799,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "600",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -8824,8 +8824,8 @@
         "channel": "Al Jazeera Arabic (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/a659c9ce10b7e2d6cbcdad11b372ffe6.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -8852,7 +8852,7 @@
         "channel": "Al Maali TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/5128c3c92b2e00bc7baeb210ebdeb022.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -8978,7 +8978,7 @@
         "channel": "Assemblee Nationale du Quebec",
         "link": "https://list.iptvcat.com/my_list/s/baf76b9c9edbc14834ea9a1f67160d65.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9104,7 +9104,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "africa",
-        "liveliness": "71",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9160,7 +9160,7 @@
         "channel": "Bahrain Sports 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b2cc8fdde539fe4172500362f9a35a0d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -9216,7 +9216,7 @@
         "channel": "Bayyinat TV",
         "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -9258,7 +9258,7 @@
         "channel": "BilliardTV",
         "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9510,7 +9510,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9524,7 +9524,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/c7a4446a8492d9c60ed0e4a1cf278837.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9846,7 +9846,7 @@
         "channel": "Canal Nets",
         "link": "https://list.iptvcat.com/my_list/s/720f77e6206b06485e9a68ab2e336cb1.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -9916,7 +9916,7 @@
         "channel": "Gurdwara Sahib Brookside (720p)",
         "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -10031,8 +10031,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -10130,7 +10130,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "mbps": "8370",
         "URI": [
             "africa"
         ]
@@ -10185,8 +10185,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
+        "format": "sd",
+        "mbps": "1928",
         "URI": [
             "africa"
         ]
@@ -10238,7 +10238,7 @@
         "channel": "Inspira TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/9e9199a48b13ef14990595c86c0a239c.m3u8",
         "country": "africa",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -10435,7 +10435,7 @@
         "link": "https://list.iptvcat.com/my_list/s/02aea541e9140a6ef910fb08e7524b77.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -10536,7 +10536,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "africa"
         ]
@@ -10546,8 +10546,8 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "africa",
-        "liveliness": "29",
-        "status": "offline",
+        "liveliness": "30",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2798",
@@ -10631,7 +10631,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8b2730a5e1f1d43053e018186c873598.m3u8",
         "country": "africa",
         "liveliness": "73",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
@@ -10900,7 +10900,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -11068,7 +11068,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -11082,7 +11082,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "africa"
         ]
@@ -11110,7 +11110,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -11233,10 +11233,10 @@
         "link": "https://list.iptvcat.com/my_list/s/55c75d065c9a4ef4fabf395ab9993b6a.m3u8",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "921",
+        "mbps": "920",
         "URI": [
             "africa"
         ]
@@ -11417,8 +11417,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1180",
+        "format": "hd",
+        "mbps": "4318",
         "URI": [
             "africa"
         ]
@@ -11862,7 +11862,7 @@
         "channel": "Nunavut Legislative Assembly",
         "link": "https://list.iptvcat.com/my_list/s/10a213b90944eca091bbcbb390e0ecd4.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "94",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -11907,8 +11907,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "651",
+        "format": "hd",
+        "mbps": "4322, ...",
         "URI": [
             "africa"
         ]
@@ -11974,7 +11974,7 @@
         "channel": "Oneworld TV",
         "link": "https://list.iptvcat.com/my_list/s/6937122527d0dfee3491402676a9e68b.m3u8",
         "country": "africa",
-        "liveliness": "89",
+        "liveliness": "87",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -12086,7 +12086,7 @@
         "channel": "Pacific Coast TV MWSD Channel 26 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/dfe700b398e337cec5d14abd939bf755.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -12132,7 +12132,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370",
+        "mbps": "13311, ...",
         "URI": [
             "africa"
         ]
@@ -12255,7 +12255,7 @@
         "link": "https://list.iptvcat.com/my_list/s/1fce7915d6831597c9a7ca779a0ce7f6.m3u8",
         "country": "africa",
         "liveliness": "61",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "8378",
@@ -12311,7 +12311,7 @@
         "link": "https://list.iptvcat.com/my_list/s/ea299092322fbf96e61975d84cc9ee60.m3u8",
         "country": "africa",
         "liveliness": "92",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -12338,8 +12338,8 @@
         "channel": "RTV (576p) [Geo-blocked]",
         "link": "https://list.iptvcat.com/my_list/s/7f73a7cd9958964de54bd21da0c3cc5c.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "3262, ...",
@@ -12352,8 +12352,8 @@
         "channel": "RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/21630afce0bd85e1353ab0fea5c2033c.m3u8",
         "country": "africa",
-        "liveliness": "75",
-        "status": "offline",
+        "liveliness": "74",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5020",
@@ -12506,7 +12506,7 @@
         "channel": "Raj News Malayalam",
         "link": "https://list.iptvcat.com/my_list/s/bddc8c16efe2557a08e16e3d8d0cc025.m3u8",
         "country": "africa",
-        "liveliness": "73",
+        "liveliness": "74",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -12566,7 +12566,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4821, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -12594,7 +12594,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -12608,7 +12608,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -12636,7 +12636,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4825, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
@@ -12692,7 +12692,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "7004, ...",
         "URI": [
             "africa"
         ]
@@ -12730,8 +12730,8 @@
         "channel": "Tele San Jacinto",
         "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
         "country": "africa",
-        "liveliness": "61",
-        "status": "offline",
+        "liveliness": "62",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
@@ -12814,7 +12814,7 @@
         "channel": "The Country Network (2160p)",
         "link": "https://list.iptvcat.com/my_list/s/254211c67458c793c692d585f0fe59b0.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "4k uhd",
@@ -12982,8 +12982,8 @@
         "channel": "Towheed TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/9171aebfa212d7c67926665a5d18c4aa.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
+        "liveliness": "96",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "3625",
@@ -13112,7 +13112,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5997",
+        "mbps": "4821",
         "URI": [
             "africa"
         ]
@@ -13178,7 +13178,7 @@
         "channel": "UAO Play",
         "link": "https://list.iptvcat.com/my_list/s/9f2c0f2a212d308514a43b454c98c0b8.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -13206,7 +13206,7 @@
         "channel": "Unife TV",
         "link": "https://list.iptvcat.com/my_list/s/e307f970a572ff27dd8ccbd251f66d1d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -13234,8 +13234,8 @@
         "channel": "Uranio TV (Yurimaguas) (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/a74f155f140f235e7c9f234bdbc1d9a4.m3u8",
         "country": "africa",
-        "liveliness": "95",
-        "status": "online",
+        "liveliness": "94",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
@@ -13265,8 +13265,8 @@
         "liveliness": "89",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1357",
+        "format": "hd",
+        "mbps": "11126, ...",
         "URI": [
             "africa"
         ]
@@ -13333,7 +13333,7 @@
         "link": "https://list.iptvcat.com/my_list/s/2a5727ddaa606898f69d98bdf736f5af.m3u8",
         "country": "africa",
         "liveliness": "63",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -13476,7 +13476,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2773",
+        "mbps": "2334",
         "URI": [
             "africa"
         ]
@@ -13528,8 +13528,8 @@
         "channel": "WCBS-DT2 (Start TV)",
         "link": "https://list.iptvcat.com/my_list/s/0a71ada79502385efcfeccfef733e96e.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13557,7 +13557,7 @@
         "link": "https://list.iptvcat.com/my_list/s/b13884f2988c37af6a2868375e30bc00.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13598,8 +13598,8 @@
         "channel": "WELL-LD1 (Daystar) (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/087dd591853d75d3e86fba765c1255c0.m3u8",
         "country": "africa",
-        "liveliness": "94",
-        "status": "online",
+        "liveliness": "93",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -13612,8 +13612,8 @@
         "channel": "WFMZ-DT1 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/29b39c02ddd229ca6fef80c1491cd626.m3u8",
         "country": "africa",
-        "liveliness": "97",
-        "status": "online",
+        "liveliness": "96",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -13697,7 +13697,7 @@
         "link": "https://list.iptvcat.com/my_list/s/070b50a94c9272e58ad6b57a50b5890d.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13795,7 +13795,7 @@
         "link": "https://list.iptvcat.com/my_list/s/7fedbecd4c97ebd42f784522ffe2fb6c.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13809,7 +13809,7 @@
         "link": "https://list.iptvcat.com/my_list/s/06e0a2fa962ca9482a2d0526968f5c9a.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -13850,8 +13850,8 @@
         "channel": "WMCN-DT1 (ShopHQ) (720p)",
         "link": "https://list.iptvcat.com/my_list/s/a3bdd5c595da268d16979a06de981f52.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4322, ...",
@@ -13864,8 +13864,8 @@
         "channel": "WNBC-DT1 (NBC 4) (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b8acbd443064ff5eb6e2df6c2f20bd21.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -13921,7 +13921,7 @@
         "link": "https://list.iptvcat.com/my_list/s/0bef261fa03da3a873d782db6a30ce6d.m3u8",
         "country": "africa",
         "liveliness": "98",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -14046,8 +14046,8 @@
         "channel": "WNYW-DT3 (FOX Weather)",
         "link": "https://list.iptvcat.com/my_list/s/68ad33d408d45e53fa03e960457388d8.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
@@ -14092,7 +14092,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "4318",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14119,8 +14119,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "format": "sd",
+        "mbps": "1996, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14260,7 +14260,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1235",
+        "mbps": "1003",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14330,7 +14330,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3262, ...",
+        "mbps": "1052",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14340,8 +14340,8 @@
         "channel": "City TV Capital City Connection",
         "link": "https://list.iptvcat.com/my_list/s/f2771efee5be5403ea40d6ed5276831b.m3u8",
         "country": "africa",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
@@ -14441,8 +14441,8 @@
         "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14498,7 +14498,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "1181, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14568,7 +14568,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2480",
+        "mbps": "2480, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14582,7 +14582,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14676,7 +14676,7 @@
         "channel": "DreamWorks (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/35da71ba1323e570c39caa887a7699c0.m3u8",
         "country": "africa",
-        "liveliness": "48",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -14694,7 +14694,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "4821",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -14915,7 +14915,7 @@
         "link": "https://list.iptvcat.com/my_list/s/228f8979929f9457a0b24618d33883cb.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
@@ -14932,7 +14932,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "919",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -15125,7 +15125,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3a5ca200e67b0dc2dde7f576ea219825.m3u8",
         "country": "africa",
         "liveliness": "82",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -15180,8 +15180,8 @@
         "channel": "Falastini (720p)",
         "link": "https://list.iptvcat.com/my_list/s/9fd939869bf772211357e571536b3381.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -15222,7 +15222,7 @@
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
         "country": "africa",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -15362,8 +15362,8 @@
         "channel": "GB News (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e0b97ecdce0f639adf04552924047ea6.m3u8",
         "country": "africa",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -15516,7 +15516,7 @@
         "channel": "Gurdwara Sahib Brookside (720p)",
         "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
         "country": "africa",
-        "liveliness": "93",
+        "liveliness": "91",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -15631,8 +15631,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "3429",
+        "format": "hd",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -15730,7 +15730,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "mbps": "8370",
         "URI": [
             "africa"
         ]
@@ -15785,8 +15785,8 @@
         "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
+        "format": "sd",
+        "mbps": "1928",
         "URI": [
             "africa"
         ]
@@ -15838,7 +15838,7 @@
         "channel": "Inspira TV (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/9e9199a48b13ef14990595c86c0a239c.m3u8",
         "country": "africa",
-        "liveliness": "96",
+        "liveliness": "97",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -16035,7 +16035,7 @@
         "link": "https://list.iptvcat.com/my_list/s/02aea541e9140a6ef910fb08e7524b77.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "9556, ...",
@@ -16136,7 +16136,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3625",
+        "mbps": "3188",
         "URI": [
             "africa"
         ]
@@ -16146,8 +16146,8 @@
         "channel": "Kora TV (360p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/06cef0690822b367361ea74bbca9c421.m3u8",
         "country": "africa",
-        "liveliness": "29",
-        "status": "offline",
+        "liveliness": "30",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2798",
@@ -16231,7 +16231,7 @@
         "link": "https://list.iptvcat.com/my_list/s/8b2730a5e1f1d43053e018186c873598.m3u8",
         "country": "africa",
         "liveliness": "73",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1996",
@@ -16500,7 +16500,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
@@ -16668,7 +16668,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -16682,7 +16682,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5020",
         "URI": [
             "africa"
         ]
@@ -16710,7 +16710,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -16833,10 +16833,10 @@
         "link": "https://list.iptvcat.com/my_list/s/55c75d065c9a4ef4fabf395ab9993b6a.m3u8",
         "country": "africa",
         "liveliness": "95",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "921",
+        "mbps": "920",
         "URI": [
             "africa"
         ]
@@ -16860,10 +16860,10 @@
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
         "country": "africa",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_-"
@@ -17001,7 +17001,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6895887da16c2b8b606dbf306a2e9b34.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -17199,8 +17199,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "600",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -17224,8 +17224,8 @@
         "channel": "Al Jazeera Arabic (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/a659c9ce10b7e2d6cbcdad11b372ffe6.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -17252,7 +17252,7 @@
         "channel": "Al Maali TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/5128c3c92b2e00bc7baeb210ebdeb022.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -17378,7 +17378,7 @@
         "channel": "Assemblee Nationale du Quebec",
         "link": "https://list.iptvcat.com/my_list/s/baf76b9c9edbc14834ea9a1f67160d65.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -17504,7 +17504,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "africa",
-        "liveliness": "71",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -17560,7 +17560,7 @@
         "channel": "Bahrain Sports 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b2cc8fdde539fe4172500362f9a35a0d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -17616,7 +17616,7 @@
         "channel": "Bayyinat TV",
         "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -17658,7 +17658,7 @@
         "channel": "BilliardTV",
         "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -17910,7 +17910,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -17924,7 +17924,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/c7a4446a8492d9c60ed0e4a1cf278837.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -18246,7 +18246,7 @@
         "channel": "Canal Nets",
         "link": "https://list.iptvcat.com/my_list/s/720f77e6206b06485e9a68ab2e336cb1.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -18292,7 +18292,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318, ...",
+        "mbps": "4318",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18319,8 +18319,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318, ...",
+        "format": "sd",
+        "mbps": "1996, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18460,7 +18460,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1235",
+        "mbps": "1003",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18530,7 +18530,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "3262, ...",
+        "mbps": "1052",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18540,8 +18540,8 @@
         "channel": "City TV Capital City Connection",
         "link": "https://list.iptvcat.com/my_list/s/f2771efee5be5403ea40d6ed5276831b.m3u8",
         "country": "africa",
-        "liveliness": "90",
-        "status": "online",
+        "liveliness": "89",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1600",
@@ -18641,8 +18641,8 @@
         "liveliness": "85",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "136",
+        "format": "hd",
+        "mbps": "3795, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18698,7 +18698,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1181",
+        "mbps": "1181, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18768,7 +18768,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2480",
+        "mbps": "2480, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18782,7 +18782,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "2491",
+        "mbps": "2491, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -18876,7 +18876,7 @@
         "channel": "DreamWorks (1080p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/35da71ba1323e570c39caa887a7699c0.m3u8",
         "country": "africa",
-        "liveliness": "48",
+        "liveliness": "47",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -18894,7 +18894,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991",
+        "mbps": "4821",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -19115,7 +19115,7 @@
         "link": "https://list.iptvcat.com/my_list/s/228f8979929f9457a0b24618d33883cb.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1688",
@@ -19132,7 +19132,7 @@
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "920",
+        "mbps": "919",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -19325,7 +19325,7 @@
         "link": "https://list.iptvcat.com/my_list/s/3a5ca200e67b0dc2dde7f576ea219825.m3u8",
         "country": "africa",
         "liveliness": "82",
-        "status": "online",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -19380,8 +19380,8 @@
         "channel": "Falastini (720p)",
         "link": "https://list.iptvcat.com/my_list/s/9fd939869bf772211357e571536b3381.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "99",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "11126",
@@ -19422,7 +19422,7 @@
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
         "country": "africa",
-        "liveliness": "94",
+        "liveliness": "92",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -19562,8 +19562,8 @@
         "channel": "GB News (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e0b97ecdce0f639adf04552924047ea6.m3u8",
         "country": "africa",
-        "liveliness": "87",
-        "status": "online",
+        "liveliness": "86",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -19660,10 +19660,10 @@
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
         "country": "africa",
-        "liveliness": "85",
+        "liveliness": "86",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
+        "format": "fhd 2k",
         "mbps": "11126, ...",
         "URI": [
             "africa_-_-_-_-_-"
@@ -19801,7 +19801,7 @@
         "link": "https://list.iptvcat.com/my_list/s/6895887da16c2b8b606dbf306a2e9b34.m3u8",
         "country": "africa",
         "liveliness": "99",
-        "status": "offline",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
@@ -19999,8 +19999,8 @@
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "600",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -20024,8 +20024,8 @@
         "channel": "Al Jazeera Arabic (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/a659c9ce10b7e2d6cbcdad11b372ffe6.m3u8",
         "country": "africa",
-        "liveliness": "79",
-        "status": "online",
+        "liveliness": "78",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
@@ -20052,7 +20052,7 @@
         "channel": "Al Maali TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/5128c3c92b2e00bc7baeb210ebdeb022.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -20178,7 +20178,7 @@
         "channel": "Assemblee Nationale du Quebec",
         "link": "https://list.iptvcat.com/my_list/s/baf76b9c9edbc14834ea9a1f67160d65.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "88",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -20304,7 +20304,7 @@
         "channel": "BSmart TV (1080p)",
         "link": "https://list.iptvcat.com/my_list/s/e867649a009db1d56acc03537c759292.m3u8",
         "country": "africa",
-        "liveliness": "71",
+        "liveliness": "69",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -20360,7 +20360,7 @@
         "channel": "Bahrain Sports 1 (720p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/b2cc8fdde539fe4172500362f9a35a0d.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "96",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -20416,7 +20416,7 @@
         "channel": "Bayyinat TV",
         "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
         "country": "africa",
-        "liveliness": "82",
+        "liveliness": "78",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
@@ -20458,7 +20458,7 @@
         "channel": "BilliardTV",
         "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -20710,7 +20710,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
         "country": "africa",
-        "liveliness": "95",
+        "liveliness": "94",
         "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -20724,7 +20724,7 @@
         "channel": "BollywoodClassic",
         "link": "https://list.iptvcat.com/my_list/s/c7a4446a8492d9c60ed0e4a1cf278837.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
@@ -21046,7 +21046,7 @@
         "channel": "Canal Nets",
         "link": "https://list.iptvcat.com/my_list/s/720f77e6206b06485e9a68ab2e336cb1.m3u8",
         "country": "africa",
-        "liveliness": "90",
+        "liveliness": "91",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
