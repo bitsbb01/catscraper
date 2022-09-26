@@ -1,103 +1,5 @@
 [
     {
-        "id": "2606967",
-        "channel": "WP Minerva Pictures",
-        "link": "https://list.iptvcat.com/my_list/s/4b41cffca4d68ff9b7f06959f882f728.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583536",
-        "channel": "WPHL-DT1 (PHL17) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/35d2feb48c6da4a7818e23735da553f6.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583566",
-        "channel": "WPHL-DT2 (Antenna TV) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/6cc5f883749c9444fe427b401294a35d.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583586",
-        "channel": "WPHY-CD2 (SonLife) (432p)",
-        "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1643",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583622",
-        "channel": "WPIX-DT1 (PIX 11)",
-        "link": "https://list.iptvcat.com/my_list/s/952ed30858282d7dfc6d778c7e370781.m3u8",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "9556, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583646",
-        "channel": "WPIX-DT4 (Rewind TV) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee16a69d23d72e97a143ad67829db6dc.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583662",
-        "channel": "WPPX-DT4 (TrueReal) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/b71b1c383cdf9111a8dcad02ee721ca0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2583676",
         "channel": "WPPX-DT5 (Laff) (432p)",
         "link": "https://list.iptvcat.com/my_list/s/40678494a1a73d803c8f17046041750f.m3u8",
@@ -275,20 +177,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2591578",
-        "channel": "WSTO",
-        "link": "https://list.iptvcat.com/my_list/s/949003a6b819bb654953047d1e8127d3.m3u8",
-        "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
         "URI": [
             "africa"
         ]
@@ -2142,20 +2030,6 @@
         ]
     },
     {
-        "id": "2606512",
-        "channel": "Bayyinat TV",
-        "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
-        "country": "africa",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2607621",
         "channel": "Beverly Hills Television 10 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/17e4d69f260b6e0cd4f1a96a65f1a594.m3u8",
@@ -2179,20 +2053,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597904",
-        "channel": "BilliardTV",
-        "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -2428,20 +2288,6 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597976",
-        "channel": "BollywoodClassic",
-        "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -2800,101 +2646,45 @@
         ]
     },
     {
-        "id": "2606967",
-        "channel": "WP Minerva Pictures",
-        "link": "https://list.iptvcat.com/my_list/s/4b41cffca4d68ff9b7f06959f882f728.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583536",
-        "channel": "WPHL-DT1 (PHL17) (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/35d2feb48c6da4a7818e23735da553f6.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4322, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583566",
-        "channel": "WPHL-DT2 (Antenna TV) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/6cc5f883749c9444fe427b401294a35d.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583586",
-        "channel": "WPHY-CD2 (SonLife) (432p)",
-        "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "1643",
+        "mbps": "754",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
-        "id": "2583622",
-        "channel": "WPIX-DT1 (PIX 11)",
-        "link": "https://list.iptvcat.com/my_list/s/952ed30858282d7dfc6d778c7e370781.m3u8",
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
         "country": "africa",
-        "liveliness": "98",
-        "status": "offline",
+        "liveliness": "92",
+        "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "9556, ...",
+        "mbps": "4318",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
-        "id": "2583646",
-        "channel": "WPIX-DT4 (Rewind TV) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/ee16a69d23d72e97a143ad67829db6dc.m3u8",
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
+        "format": "fhd 2k",
+        "mbps": "9546, ...",
         "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2583662",
-        "channel": "WPPX-DT4 (TrueReal) (480p)",
-        "link": "https://list.iptvcat.com/my_list/s/b71b1c383cdf9111a8dcad02ee721ca0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1531",
-        "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -3075,20 +2865,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "1643",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2591578",
-        "channel": "WSTO",
-        "link": "https://list.iptvcat.com/my_list/s/949003a6b819bb654953047d1e8127d3.m3u8",
-        "country": "africa",
-        "liveliness": "95",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "13311",
         "URI": [
             "africa"
         ]
@@ -4195,104 +3971,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "219",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2603954",
-        "channel": "Takhayl (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/7d0df2053cd890507b385b992030a986.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "7004, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2603195",
-        "channel": "Tastemade International",
-        "link": "https://list.iptvcat.com/my_list/s/07293020b4d0ab187cc70b9053617fb0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "13324, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2585155",
-        "channel": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/ba7eccd844b54ebabd9247b28e7aefe0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2584522",
-        "channel": "Tele San Jacinto",
-        "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
-        "country": "africa",
-        "liveliness": "62",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606927",
-        "channel": "Teletubbies",
-        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606941",
-        "channel": "Televisa Telenovelas",
-        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2597720",
-        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
-        "country": "africa",
-        "liveliness": "98",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
         "URI": [
             "africa"
         ]
@@ -5600,71 +5278,99 @@
         ]
     },
     {
-        "id": "2607067",
-        "channel": "Rakuten Documentaries",
-        "link": "https://list.iptvcat.com/my_list/s/6a69daaa119846d7f0b0327673e40900.m3u8",
+        "id": "2606967",
+        "channel": "WP Minerva Pictures",
+        "link": "https://list.iptvcat.com/my_list/s/4b41cffca4d68ff9b7f06959f882f728.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2605084",
-        "channel": "Rakuten Documentaries (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/2cb8f5058cc44845376f79dc329199b3.m3u8",
+        "id": "2583536",
+        "channel": "WPHL-DT1 (PHL17) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/35d2feb48c6da4a7818e23735da553f6.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "4322, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2601897",
-        "channel": "Rakuten Drama",
-        "link": "https://list.iptvcat.com/my_list/s/53c7774598d2ba215a63a588a8f8d9b4.m3u8",
+        "id": "2583566",
+        "channel": "WPHL-DT2 (Antenna TV) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6cc5f883749c9444fe427b401294a35d.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4821, ...",
+        "format": "sd",
+        "mbps": "1531",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2606877",
-        "channel": "Rakuten Drama",
-        "link": "https://list.iptvcat.com/my_list/s/5fc9f0071166134b370e5ce7d9f62906.m3u8",
+        "id": "2583586",
+        "channel": "WPHY-CD2 (SonLife) (432p)",
+        "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020, ...",
+        "format": "sd",
+        "mbps": "1643",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2607355",
-        "channel": "Rakuten Drama",
-        "link": "https://list.iptvcat.com/my_list/s/7ee2e0072ad086c103430fc043e9a5f8.m3u8",
+        "id": "2583622",
+        "channel": "WPIX-DT1 (PIX 11)",
+        "link": "https://list.iptvcat.com/my_list/s/952ed30858282d7dfc6d778c7e370781.m3u8",
         "country": "africa",
-        "liveliness": "100",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5020, ...",
+        "mbps": "9556, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2583646",
+        "channel": "WPIX-DT4 (Rewind TV) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/ee16a69d23d72e97a143ad67829db6dc.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1531",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2583662",
+        "channel": "WPPX-DT4 (TrueReal) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/b71b1c383cdf9111a8dcad02ee721ca0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1531",
         "URI": [
             "africa"
         ]
@@ -6538,20 +6244,6 @@
         ]
     },
     {
-        "id": "2603585",
-        "channel": "SoriTV [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3aae92aafa6b2e4656a6e89ac7080241.m3u8",
-        "country": "africa",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2584376",
         "channel": "Spectrum Channel (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/8ddc6ef3ebbdf3e6c99845015259c9f8.m3u8",
@@ -6673,20 +6365,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2580166",
-        "channel": "Suram TV (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/f036a375712169b3f39e5cd51b08bd42.m3u8",
-        "country": "africa",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
         "URI": [
             "africa"
         ]
@@ -7000,23 +6678,65 @@
         ]
     },
     {
-        "id": "2602818",
-        "channel": "Motorvision.TV",
-        "link": "https://list.iptvcat.com/my_list/s/a1bb73bfef41ac61528a324d9c547fb8.m3u8",
+        "id": "2603954",
+        "channel": "Takhayl (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/7d0df2053cd890507b385b992030a986.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "3188, ...",
+        "mbps": "7004, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2602831",
-        "channel": "Mtrspt 1",
-        "link": "https://list.iptvcat.com/my_list/s/73e78c950a72237c93c7025592642aad.m3u8",
+        "id": "2603195",
+        "channel": "Tastemade International",
+        "link": "https://list.iptvcat.com/my_list/s/07293020b4d0ab187cc70b9053617fb0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2585155",
+        "channel": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/ba7eccd844b54ebabd9247b28e7aefe0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2584522",
+        "channel": "Tele San Jacinto",
+        "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
+        "country": "africa",
+        "liveliness": "62",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606927",
+        "channel": "Teletubbies",
+        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
@@ -7028,29 +6748,29 @@
         ]
     },
     {
-        "id": "2582343",
-        "channel": "MusawaChannel (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/6dec7e035fd5a426f49c5d2d723d4bd2.m3u8",
+        "id": "2606941",
+        "channel": "Televisa Telenovelas",
+        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "11126, ...",
+        "mbps": "5991, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2577298",
-        "channel": "My Cinema (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/c19db93c40b3229e870fde085c3a9f24.m3u8",
+        "id": "2597720",
+        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "7004",
+        "mbps": "8370, ...",
         "URI": [
             "africa"
         ]
@@ -7247,20 +6967,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "920",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2577900",
-        "channel": "NET. (576p)",
-        "link": "https://list.iptvcat.com/my_list/s/c9541f23552c463746290eec54c7b322.m3u8",
-        "country": "africa",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
         "URI": [
             "africa"
         ]
@@ -9338,20 +9044,6 @@
         ]
     },
     {
-        "id": "2603585",
-        "channel": "SoriTV [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3aae92aafa6b2e4656a6e89ac7080241.m3u8",
-        "country": "africa",
-        "liveliness": "43",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2584376",
         "channel": "Spectrum Channel (480p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/8ddc6ef3ebbdf3e6c99845015259c9f8.m3u8",
@@ -9473,20 +9165,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2580166",
-        "channel": "Suram TV (1080p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/f036a375712169b3f39e5cd51b08bd42.m3u8",
-        "country": "africa",
-        "liveliness": "88",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3799, ...",
         "URI": [
             "africa"
         ]
@@ -9795,6 +9473,104 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
         "mbps": "7986",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2603954",
+        "channel": "Takhayl (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/7d0df2053cd890507b385b992030a986.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "7004, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2603195",
+        "channel": "Tastemade International",
+        "link": "https://list.iptvcat.com/my_list/s/07293020b4d0ab187cc70b9053617fb0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "13324, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2585155",
+        "channel": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
+        "link": "https://list.iptvcat.com/my_list/s/ba7eccd844b54ebabd9247b28e7aefe0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "2334",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2584522",
+        "channel": "Tele San Jacinto",
+        "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
+        "country": "africa",
+        "liveliness": "62",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606927",
+        "channel": "Teletubbies",
+        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2606941",
+        "channel": "Televisa Telenovelas",
+        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2597720",
+        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
         "URI": [
             "africa"
         ]
@@ -10542,20 +10318,6 @@
         ]
     },
     {
-        "id": "2606512",
-        "channel": "Bayyinat TV",
-        "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
-        "country": "africa",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2607621",
         "channel": "Beverly Hills Television 10 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/17e4d69f260b6e0cd4f1a96a65f1a594.m3u8",
@@ -10579,20 +10341,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597904",
-        "channel": "BilliardTV",
-        "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -10828,20 +10576,6 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597976",
-        "channel": "BollywoodClassic",
-        "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -11200,59 +10934,45 @@
         ]
     },
     {
-        "id": "2601648",
-        "channel": "Go USA TV",
-        "link": "https://list.iptvcat.com/my_list/s/e50053945e916f8b6e38190ccb1e90c1.m3u8",
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
         "country": "africa",
-        "liveliness": "100",
+        "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991, ...",
+        "format": "sd",
+        "mbps": "754",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
-        "id": "2591507",
-        "channel": "Grit Xtra",
-        "link": "https://list.iptvcat.com/my_list/s/430cb0e14a1488de627febefc27e2b52.m3u8",
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
         "country": "africa",
-        "liveliness": "99",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "africa",
+        "liveliness": "88",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "mbps": "9546, ...",
         "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2605331",
-        "channel": "Guney TV Tarsus (270p)",
-        "link": "https://list.iptvcat.com/my_list/s/9cd1c46d03ecd789b02808f2b7f37401.m3u8",
-        "country": "africa",
-        "liveliness": "100",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5020",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606012",
-        "channel": "Gurdwara Sahib Brookside (720p)",
-        "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
-        "country": "africa",
-        "liveliness": "91",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "5991",
-        "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -12852,20 +12572,6 @@
         ]
     },
     {
-        "id": "2577900",
-        "channel": "NET. (576p)",
-        "link": "https://list.iptvcat.com/my_list/s/c9541f23552c463746290eec54c7b322.m3u8",
-        "country": "africa",
-        "liveliness": "79",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "1509",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
         "id": "2577940",
         "channel": "NHK General TV (540p) [Not 24/7]",
         "link": "https://list.iptvcat.com/my_list/s/7bfdf1e776cea1c66839729ce3edba2e.m3u8",
@@ -14000,99 +13706,71 @@
         ]
     },
     {
-        "id": "2603954",
-        "channel": "Takhayl (1080p)",
-        "link": "https://list.iptvcat.com/my_list/s/7d0df2053cd890507b385b992030a986.m3u8",
+        "id": "2607067",
+        "channel": "Rakuten Documentaries",
+        "link": "https://list.iptvcat.com/my_list/s/6a69daaa119846d7f0b0327673e40900.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "7004, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2603195",
-        "channel": "Tastemade International",
-        "link": "https://list.iptvcat.com/my_list/s/07293020b4d0ab187cc70b9053617fb0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "13324, ...",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2585155",
-        "channel": "Tegar TV Lampung (480p) [Not 24/7] [Geo-blocked]",
-        "link": "https://list.iptvcat.com/my_list/s/ba7eccd844b54ebabd9247b28e7aefe0.m3u8",
-        "country": "africa",
-        "liveliness": "99",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2584522",
-        "channel": "Tele San Jacinto",
-        "link": "https://list.iptvcat.com/my_list/s/9a9ca591ce0c6404eb41aa59a27a8e63.m3u8",
-        "country": "africa",
-        "liveliness": "62",
-        "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "4318",
-        "URI": [
-            "africa"
-        ]
-    },
-    {
-        "id": "2606927",
-        "channel": "Teletubbies",
-        "link": "https://list.iptvcat.com/my_list/s/60b99d0069b57e746dc0e52961fadbbe.m3u8",
+        "id": "2605084",
+        "channel": "Rakuten Documentaries (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/2cb8f5058cc44845376f79dc329199b3.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2606941",
-        "channel": "Televisa Telenovelas",
-        "link": "https://list.iptvcat.com/my_list/s/cabaec4c99409414d5c612d71b43ff36.m3u8",
+        "id": "2601897",
+        "channel": "Rakuten Drama",
+        "link": "https://list.iptvcat.com/my_list/s/53c7774598d2ba215a63a588a8f8d9b4.m3u8",
         "country": "africa",
         "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "5991, ...",
+        "mbps": "4821, ...",
         "URI": [
             "africa"
         ]
     },
     {
-        "id": "2597720",
-        "channel": "Televisión Tarapoto (720p) [Not 24/7]",
-        "link": "https://list.iptvcat.com/my_list/s/3ec159a9cbb569e8f7ce2414f9f3cf1f.m3u8",
+        "id": "2606877",
+        "channel": "Rakuten Drama",
+        "link": "https://list.iptvcat.com/my_list/s/5fc9f0071166134b370e5ce7d9f62906.m3u8",
         "country": "africa",
-        "liveliness": "98",
+        "liveliness": "100",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "8370, ...",
+        "format": "hd",
+        "mbps": "5020, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2607355",
+        "channel": "Rakuten Drama",
+        "link": "https://list.iptvcat.com/my_list/s/7ee2e0072ad086c103430fc043e9a5f8.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020, ...",
         "URI": [
             "africa"
         ]
@@ -15400,45 +15078,101 @@
         ]
     },
     {
-        "id": "2589255",
-        "channel": "Canal del Congreso 45.1",
-        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "id": "2606967",
+        "channel": "WP Minerva Pictures",
+        "link": "https://list.iptvcat.com/my_list/s/4b41cffca4d68ff9b7f06959f882f728.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2583536",
+        "channel": "WPHL-DT1 (PHL17) (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/35d2feb48c6da4a7818e23735da553f6.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4322, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2583566",
+        "channel": "WPHL-DT2 (Antenna TV) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/6cc5f883749c9444fe427b401294a35d.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1531",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2583586",
+        "channel": "WPHY-CD2 (SonLife) (432p)",
+        "link": "https://list.iptvcat.com/my_list/s/72ac54a15b8ffa2de9e19254db12efe5.m3u8",
         "country": "africa",
         "liveliness": "98",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
-        "mbps": "754",
+        "mbps": "1643",
         "URI": [
-            "africa_-_-_-_-_-"
+            "africa"
         ]
     },
     {
-        "id": "2589261",
-        "channel": "Canal del Congreso 45.2",
-        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "id": "2583622",
+        "channel": "WPIX-DT1 (PIX 11)",
+        "link": "https://list.iptvcat.com/my_list/s/952ed30858282d7dfc6d778c7e370781.m3u8",
         "country": "africa",
-        "liveliness": "92",
-        "status": "online",
+        "liveliness": "98",
+        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
-        "mbps": "4318",
+        "mbps": "9556, ...",
         "URI": [
-            "africa_-_-_-_-_-"
+            "africa"
         ]
     },
     {
-        "id": "2589267",
-        "channel": "Canal del Congreso 45.3",
-        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "id": "2583646",
+        "channel": "WPIX-DT4 (Rewind TV) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/ee16a69d23d72e97a143ad67829db6dc.m3u8",
         "country": "africa",
-        "liveliness": "88",
+        "liveliness": "99",
         "status": "online",
         "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "fhd 2k",
-        "mbps": "9546, ...",
+        "format": "sd",
+        "mbps": "1531",
         "URI": [
-            "africa_-_-_-_-_-"
+            "africa"
+        ]
+    },
+    {
+        "id": "2583662",
+        "channel": "WPPX-DT4 (TrueReal) (480p)",
+        "link": "https://list.iptvcat.com/my_list/s/b71b1c383cdf9111a8dcad02ee721ca0.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "1531",
+        "URI": [
+            "africa"
         ]
     },
     {
@@ -16548,20 +16282,6 @@
         ]
     },
     {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "africa",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2598182",
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
@@ -16810,7 +16530,7 @@
         "format": "hd",
         "mbps": "5991, ...",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -16824,7 +16544,7 @@
         "format": "fhd 2k",
         "mbps": "8370, ...",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -16838,7 +16558,7 @@
         "format": "hd",
         "mbps": "5020",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -16852,7 +16572,7 @@
         "format": "hd",
         "mbps": "5991",
         "URI": [
-            "africa"
+            "africa_-_-_-_-_-"
         ]
     },
     {
@@ -18200,6 +17920,62 @@
         ]
     },
     {
+        "id": "2602818",
+        "channel": "Motorvision.TV",
+        "link": "https://list.iptvcat.com/my_list/s/a1bb73bfef41ac61528a324d9c547fb8.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "3188, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2602831",
+        "channel": "Mtrspt 1",
+        "link": "https://list.iptvcat.com/my_list/s/73e78c950a72237c93c7025592642aad.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2582343",
+        "channel": "MusawaChannel (1080p) [Not 24/7]",
+        "link": "https://list.iptvcat.com/my_list/s/6dec7e035fd5a426f49c5d2d723d4bd2.m3u8",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "11126, ...",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
+        "id": "2577298",
+        "channel": "My Cinema (1080p)",
+        "link": "https://list.iptvcat.com/my_list/s/c19db93c40b3229e870fde085c3a9f24.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "7004",
+        "URI": [
+            "africa"
+        ]
+    },
+    {
         "id": "2603745",
         "channel": "3/24",
         "link": "https://list.iptvcat.com/my_list/s/f5f706eee4ff684bec06374514188f00.m3u8",
@@ -18942,20 +18718,6 @@
         ]
     },
     {
-        "id": "2606512",
-        "channel": "Bayyinat TV",
-        "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
-        "country": "africa",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2607621",
         "channel": "Beverly Hills Television 10 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/17e4d69f260b6e0cd4f1a96a65f1a594.m3u8",
@@ -18979,20 +18741,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597904",
-        "channel": "BilliardTV",
-        "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -19228,20 +18976,6 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597976",
-        "channel": "BollywoodClassic",
-        "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -20748,20 +20482,6 @@
         ]
     },
     {
-        "id": "2598170",
-        "channel": "FidoTV",
-        "link": "https://list.iptvcat.com/my_list/s/25fb3e1173b6f067e47b51815cbce9ca.m3u8",
-        "country": "africa",
-        "liveliness": "92",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2598182",
         "channel": "FidoTV",
         "link": "https://list.iptvcat.com/my_list/s/080c74fe8d02223030962bb94915e5ff.m3u8",
@@ -20995,6 +20715,62 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "5991, ...",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2601648",
+        "channel": "Go USA TV",
+        "link": "https://list.iptvcat.com/my_list/s/e50053945e916f8b6e38190ccb1e90c1.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991, ...",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2591507",
+        "channel": "Grit Xtra",
+        "link": "https://list.iptvcat.com/my_list/s/430cb0e14a1488de627febefc27e2b52.m3u8",
+        "country": "africa",
+        "liveliness": "99",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "8370, ...",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2605331",
+        "channel": "Guney TV Tarsus (270p)",
+        "link": "https://list.iptvcat.com/my_list/s/9cd1c46d03ecd789b02808f2b7f37401.m3u8",
+        "country": "africa",
+        "liveliness": "100",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5020",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2606012",
+        "channel": "Gurdwara Sahib Brookside (720p)",
+        "link": "https://list.iptvcat.com/my_list/s/dff0b634a3eecaed055cf02849c68858.m3u8",
+        "country": "africa",
+        "liveliness": "91",
+        "status": "offline",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "5991",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -21742,20 +21518,6 @@
         ]
     },
     {
-        "id": "2606512",
-        "channel": "Bayyinat TV",
-        "link": "https://list.iptvcat.com/my_list/s/275baf50bba5600e43e4d777ec01a662.m3u8",
-        "country": "africa",
-        "liveliness": "78",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "hd",
-        "mbps": "3188",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
         "id": "2607621",
         "channel": "Beverly Hills Television 10 (720p)",
         "link": "https://list.iptvcat.com/my_list/s/17e4d69f260b6e0cd4f1a96a65f1a594.m3u8",
@@ -21779,20 +21541,6 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597904",
-        "channel": "BilliardTV",
-        "link": "https://list.iptvcat.com/my_list/s/cd4219de1a17c8b46bc6330f37addfa5.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
         "URI": [
             "africa_-_-_-_-_-"
         ]
@@ -22028,20 +21776,6 @@
         "country": "africa",
         "liveliness": "100",
         "status": "online",
-        "lastChecked": "2022-09-23T00:00:00Z",
-        "format": "sd",
-        "mbps": "2334",
-        "URI": [
-            "africa_-_-_-_-_-"
-        ]
-    },
-    {
-        "id": "2597976",
-        "channel": "BollywoodClassic",
-        "link": "https://list.iptvcat.com/my_list/s/445da3a5cb85191fce51124735ce1239.m3u8",
-        "country": "africa",
-        "liveliness": "94",
-        "status": "offline",
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "sd",
         "mbps": "2334",
@@ -22395,6 +22129,48 @@
         "lastChecked": "2022-09-23T00:00:00Z",
         "format": "hd",
         "mbps": "4318, ...",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589255",
+        "channel": "Canal del Congreso 45.1",
+        "link": "https://list.iptvcat.com/my_list/s/13251a4131d6ddac902f47ad452241ba.m3u8",
+        "country": "africa",
+        "liveliness": "98",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "sd",
+        "mbps": "754",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589261",
+        "channel": "Canal del Congreso 45.2",
+        "link": "https://list.iptvcat.com/my_list/s/a7f241a46246a37441f71cd53709933c.m3u8",
+        "country": "africa",
+        "liveliness": "92",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "hd",
+        "mbps": "4318",
+        "URI": [
+            "africa_-_-_-_-_-"
+        ]
+    },
+    {
+        "id": "2589267",
+        "channel": "Canal del Congreso 45.3",
+        "link": "https://list.iptvcat.com/my_list/s/93264abb40dc61d36da06ca89a0797a5.m3u8",
+        "country": "africa",
+        "liveliness": "88",
+        "status": "online",
+        "lastChecked": "2022-09-23T00:00:00Z",
+        "format": "fhd 2k",
+        "mbps": "9546, ...",
         "URI": [
             "africa_-_-_-_-_-"
         ]
